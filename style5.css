@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-color:rgb(242, 239, 238);
+/* background-image:url('https://www.kttn.com/wp-content/uploads/2019/08/Lets-Fight-Hunger-Together.png');
+background-repeat: no-repeat;
+background-size: cover; */
+/* opacity:0.5 ; */
+}
+.nav-bar{
+    display:flex;
+    justify-content: space-around;
+    color: white;
+    background-color: black; 
+    font-size: large;
+    padding: 5px;
+}
+
+.register{
+border: 2px solid black;
+display: flex;
+justify-content: center;
+background-color: orangered;
+}
+.register-1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.class-1{
+    height: 90vh;
+    width: 90vw;
+    margin-right: 30px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    margin-left: 10px;
+
+}
+.class-2{
+    margin-top: 20px;
+    height: 90vh;
+    width: 90vw;
+   
+   
+}
+#first-image{
+    height: 500px;
+    width: 600px;
+}
+.left-over{
+display: flex;
+
+}
+.left-over-1{
+    height: 50vh;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left-over-2{
+    height: 50vh;
+    width: 50vw; 
+}
+#second-img{
+width: 600px;
+}
+
+
+
+
+
+
+
+
+
+}
